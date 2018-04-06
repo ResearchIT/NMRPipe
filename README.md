@@ -5,4 +5,4 @@ within a [Singularity](https://singularity.lbl.gov) container, which can be buil
 
 Versions:
 
-*212_64 - NMRPipe linux212_64 built on centos7.4
+* 212_64 - NMRPipe linux212_64 built on centos7.4
